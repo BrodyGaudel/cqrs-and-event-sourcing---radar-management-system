@@ -67,6 +67,7 @@ This application is a distributed system based on microservices architecture, em
 ---
 
 ### Application Architecture
+![Architecture Overview](https://raw.githubusercontent.com/BrodyGaudel/cqrs-and-event-sourcing---radar-management-system/main/architecture.jpg?token=GHSAT0AAAAAACGKX5EZ45J2DDII5LZC54BSZKAI5SQ)
 
 ### Illustration
 
