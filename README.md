@@ -3,6 +3,8 @@
 ## Distributed System for Vehicle Speed Violation Management
 
 This application is a distributed system based on microservices architecture, employing an event-driven approach following the Event Sourcing and Command Query Responsibility Segregation (CQRS) patterns. Its primary purpose is to manage traffic violations resulting from speeding incidents detected by automatic radar systems.
+---
+![Architecture Overview](https://github.com/BrodyGaudel/cqrs-and-event-sourcing---radar-management-system/blob/main/architecture.jpg)
 
 ### Microservices Overview
 
@@ -65,9 +67,6 @@ This application is a distributed system based on microservices architecture, em
 - Fork the repository, make changes, and submit a pull request.
 
 ---
-
-### Application Architecture
-![Architecture Overview](https://raw.githubusercontent.com/BrodyGaudel/cqrs-and-event-sourcing---radar-management-system/main/architecture.jpg?token=GHSAT0AAAAAACGKX5EZ45J2DDII5LZC54BSZKAI5SQ)
 
 ### Illustration
 
