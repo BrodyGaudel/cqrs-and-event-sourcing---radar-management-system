@@ -5,6 +5,8 @@
 This application is a distributed system based on microservices architecture, employing an event-driven approach following the Event Sourcing and Command Query Responsibility Segregation (CQRS) patterns. Its primary purpose is to manage traffic violations resulting from speeding incidents detected by automatic radar systems.
 ---
 ![Architecture Overview](https://github.com/BrodyGaudel/cqrs-and-event-sourcing---radar-management-system/blob/main/architecture.jpg)
+---
+![Architecture Overview](https://github.com/BrodyGaudel/cqrs-and-event-sourcing---radar-management-system/blob/main/illustrations/13.png)
 
 ### Microservices Overview
 
